@@ -144,9 +144,9 @@ public class EstoqueDeProdutos {
     
     public static void mostrarEstoque(int opcaoDeEstoque){
         Map<String, List<Produto>> estoqueTemp = null;
-        if (opcaoDeEstoque < 1 || opcaoDeEstoque > 2) {
-            estoqueTemp = estoque;
-        }
+        // if (opcaoDeEstoque < 1 || opcaoDeEstoque > 2) {
+        //     estoqueTemp = estoque;
+        // }
         if (opcaoDeEstoque == 1) {
             estoqueTemp = estoque;
         }

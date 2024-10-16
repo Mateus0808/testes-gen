@@ -1,3 +1,6 @@
+# Link do vídeo
+Loom: https://www.loom.com/share/e4e24dacf12340de8fa5c8fbe3c8e15f?sid=e13db819-6744-46ba-bfff-1921e9daffe3
+
 # GERAÇÃO AUTOMÁTICA DE TESTES
 
 Geração e execução de testes unitários com o Randoop e EvoSuite em um projeto maven pelo terminal do Linux.
